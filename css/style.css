@@ -1,0 +1,27 @@
+/*...................................Its a comment.........................................*/
+.Apple
+{
+    background-color: yellowgreen;
+}
+.Peach
+{
+    background-color: darkseagreen;
+    
+}
+img:hover
+{
+    background-color: yellow;
+}
+
+.circular
+{
+    border-radius: 100%;
+}
+h1
+{
+    font-size: 50px;
+}
+#heading
+{
+    color: blue;
+}
